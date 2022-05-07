@@ -10,4 +10,4 @@ A Dream to create PHP sites without coding
 
 And more!
 
-[# contact us, well no need to say just click here! lesssgoo](https://github.com/orgs/App-Makers-Team/discussions)
+# [contact us, well no need to say just click here! lesssgoo](https://github.com/orgs/App-Makers-Team/discussions)
