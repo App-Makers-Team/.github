@@ -1,19 +1,40 @@
-## Hi there 👋
+# Welcome to the company 🙌
+[A short introduction](#a-short-introduction)
 
-Our organization is about to create modern apps with teams and smart pepoles,
+[Fun fact](#fun-fact)
 
-we create our apps and publish them for free or paid.
+[Idea](#idea)
 
-Our organization is trying to create more and new apps!
-
-our most amazing ideas are for creating apps without coding.
+[Be hired!](#were-hiring)
 <!--
 
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
+👀 Contribution guidelines - how do team members dive in?
+👩‍💻 Useful resources - where do you keep your docs? Is there anything else the team should know?
+🍪 Fun facts - what is your team's favorite snack?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+## a short introduction
+We create new simple but modern apps 🆕
+
+We work together and create new apps 👍
+## Fun fact
+Fun fact: everybody on our small team has his own learned languages.
+Me: python,c#
+
+DECATION: batch
+
+And more ... 😎
+## Idea
+Idea of this Co is to create new apps with smart intelligent
+And seems like we couldn't beat it 😢
+
+## We're hiring
+We are hiring!
+
+[Click here to be hired!](https://github.com/orgs/App-Makers-Team/discussions/new)
+
+
